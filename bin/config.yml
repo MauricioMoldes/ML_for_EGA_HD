@@ -1,0 +1,4 @@
+request_tracker_db:
+  address: https://helpdesk.ebi.ac.uk/REST/1.0/
+  user: rt_user
+  password: rt_password
